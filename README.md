@@ -18,6 +18,8 @@ Mute/Unmute system microphone.
 
 Keywords: `mic-mute-toggle`, `mic-mute`, `mic-unmute`
 
+Hotkey: `cmd+shift+d`
+
 <img src="https://user-images.githubusercontent.com/839700/116274186-b89fce80-a782-11eb-979b-41c6d7e8236d.png" width="400px" />
 
 [Download com.kopiro.mic.mute.toggle](com.kopiro.mic.mute.toggle)
